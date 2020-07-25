@@ -4,5 +4,5 @@ title: work ethic
 permalink: 
 description:
 nav: true
-redirect: https://cogs.org/
+redirect_to: https://cogs.org/
 ---
