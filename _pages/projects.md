@@ -5,7 +5,8 @@ permalink: /projects/
 description: my recent projects.
 nav: true
 ---
-
+<p>
+<p>
 <div class="projects grid">
 
   {% assign sorted_projects = site.projects | sort: "importance" %}
