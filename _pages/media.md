@@ -9,13 +9,13 @@ nav: true
 
 I love public writing. Here are a few links to my work.
 
-#### Gender, space, and isolation:
+**Gender, space, and isolation:**
 
 [Space News](https://spacenews.com/what-the-2010s-taught-us-about-women-in-space/) 
 
 [The Conversation](https://theconversation.com/coronavirus-quarantine-could-provide-lessons-for-future-space-travel-on-how-regular-people-weather-isolation-134762) 
 
-#### Ethnic, religious, and national minorities in South Caucasus and Eastern Europe:
+**Ethnic, religious, and national minorities in South Caucasus and Eastern Europe:**
 
 
  [Open Democracy ](https://www.opendemocracy.net/en/author/inga-popovaite/) 
