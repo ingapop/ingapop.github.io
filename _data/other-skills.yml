@@ -1,0 +1,13 @@
+
+
+- name: Linux
+  percentage: 90
+  color: 
+
+- name: C++
+  percentage: 60
+  color: 
+
+- name: GitHub
+  percentage: 70
+  color: 

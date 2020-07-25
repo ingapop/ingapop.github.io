@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: You R. Name
-email: you@example.com
+title: Inga Popovaite
+email: inga-popovaite@uiowa.edu
 description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  My personal space. 
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> and
+  <a href= "https://youssefraafatnasry.me/portfolYOU/about/">portfolYOU </a> themes.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+baseurl: '' # the subpath of your site, e.g. /blog/
+last_updated: true # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -36,10 +36,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+github_username: ingapop # your GitHub user name
+twitter_username: inga_pop# your Twitter handle
+linkedin_username: inga-popovaite# your LinkedIn user name
 scholar_userid: # your Google Scholar ID
+instagram_username: popovaite
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -48,7 +49,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Send a post pidgeon if none of these work. 
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -56,9 +57,12 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Blog  # your blog must have a name for it to show up in the nav bar
+blog_description: no peer review. 
 permalink: /blog/:year/:title/
+
+skills_name: Skills 
+skills_description: skills and formal education.
 
 # Pagination
 pagination:
@@ -111,6 +115,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
+  - jekyll-redirect-from
   # - bootstrap
   # - material-sass
 
@@ -120,7 +125,7 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: Popovaite
 
   style: apa
   locale: en
