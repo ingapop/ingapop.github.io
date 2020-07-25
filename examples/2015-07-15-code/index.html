@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Inga Popovaite | Skills</title>
+<title>Inga Popovaite | a post with code</title>
 <meta name="description" content="My personal space. 
 ">
 
@@ -23,7 +23,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/skills/">
+<link rel="canonical" href="/examples/2015-07-15-code/">
 
 <!-- Open Graph -->
 
@@ -69,7 +69,7 @@
           </li>
           
           <!-- Skills -->
-          <li class = "nav-item active">
+          <li class = "nav-item ">
             <a class="nav-link" href="/skills/">
             skills
              
@@ -179,117 +179,66 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Skills</h1>
-    <p class="post-description">skills and formal education.</p>
+    <h1 class="post-title">a post with code</h1>
+    <p class="post-meta">July 15, 2015</p>
   </header>
 
-  <article>
-    <div class="row">
-<div class="col-lg">
-  <h2 class="mb-3">Data Skills</h2>
-    
-      <div class="skill">
-        <p>R</p>
-        <div class="skill-bar skill-bar-danger skill-90 wow animated slideInLeft" data-wow-delay="0.05">
-          <span>90%</span>
-        </div>
-      </div>
-    
-      <div class="skill">
-        <p>Python</p>
-        <div class="skill-bar skill-bar- skill-80 wow animated slideInLeft" data-wow-delay="0.1">
-          <span>80%</span>
-        </div>
-      </div>
-    
-      <div class="skill">
-        <p>Stata</p>
-        <div class="skill-bar skill-bar-dark skill-75 wow animated slideInLeft" data-wow-delay="0.15">
-          <span>75%</span>
-        </div>
-      </div>
-    
-      <div class="skill">
-        <p>SQL</p>
-        <div class="skill-bar skill-bar- skill-75 wow animated slideInLeft" data-wow-delay="0.2">
-          <span>75%</span>
-        </div>
-      </div>
-    
-</div>
-<div class="col-lg">
-  <h2 class="mb-3">Other Skills</h2>
-    
-      <div class="skill">
-        <p>Linux</p>
-        <div class="skill-bar skill-bar- skill-90 wow animated slideInLeft" data-wow-delay="0.05">
-          <span>90%</span>
-        </div>
-      </div>
-    
-      <div class="skill">
-        <p>C++</p>
-        <div class="skill-bar skill-bar- skill-60 wow animated slideInLeft" data-wow-delay="0.1">
-          <span>60%</span>
-        </div>
-      </div>
-    
-      <div class="skill">
-        <p>GitHub</p>
-        <div class="skill-bar skill-bar- skill-70 wow animated slideInLeft" data-wow-delay="0.15">
-          <span>70%</span>
-        </div>
-      </div>
-    
-</div>
-</div>
+  <article class="post-content">
+    <p>This theme implements a built-in Jekyll feature, the use of Rouge, for syntax highlighting.
+It supports more than 100 languages.
+This example is in C++.
+All you have to do is wrap your code in a liquid tag:</p>
 
+<p>{% highlight c++ linenos %}  <br /> code code code <br /> {% endhighlight %}</p>
 
+<p>The keyword <code class="language-plaintext highlighter-rouge">linenos</code> triggers display of line numbers.
+Produces something like this:</p>
 
-<div class="row">
-<div class="col mt-4">
-  <div class="timeline-body">
-    
-      <div class="timeline-item">
-        <div class="content">
-          <h2>PhD, University of Iowa (ABD)</h2>
-          <h6 class="date">2015 — present</h6>
-          <p>PhD Candidate at the department of Sociology and Criminology. Dissertaton: gender, status, and emotions in space analog environments. Research areas: gender, group processes, isolated confined environments, emotions, quantitative methodology.</p>
-        </div>
-      </div>
-    
-      <div class="timeline-item">
-        <div class="content">
-          <h2>MA, University of Iowa</h2>
-          <h6 class="date">2015 — 2016</h6>
-          <p>MA in Sociology. Research areas: intergroup prejudice, social identity theory, ethnic minorities in post-Soviet space.</p>
-        </div>
-      </div>
-    
-      <div class="timeline-item">
-        <div class="content">
-          <h2>MA, Central European University</h2>
-          <h6 class="date">2012 — 2014</h6>
-          <p>MA in Nationalism Studies. Research areas: ethnic and religious minorities in South Caucasus, gender, national identity.</p>
-        </div>
-      </div>
-    
-      <div class="timeline-item">
-        <div class="content">
-          <h2>BA, Klaipeda University</h2>
-          <h6 class="date">2004 — 2008</h6>
-          <p>BA in Journalism.</p>
-        </div>
-      </div>
-    
-  </div>
-</div>
-</div>
+<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+</pre></td><td class="code"><pre><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="k">const</span> <span class="err">\</span><span class="o">*</span><span class="n">argv</span><span class="p">[])</span>
+<span class="p">{</span>
+    <span class="n">string</span> <span class="n">myString</span><span class="p">;</span>
+
+    <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"input a string: "</span><span class="p">;</span>
+    <span class="n">getline</span><span class="p">(</span><span class="n">cin</span><span class="p">,</span> <span class="n">myString</span><span class="p">);</span>
+    <span class="kt">int</span> <span class="n">length</span> <span class="o">=</span> <span class="n">myString</span><span class="p">.</span><span class="n">length</span><span class="p">();</span>
+
+    <span class="kt">char</span> <span class="n">charArray</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">char</span> <span class="o">*</span> <span class="p">[</span><span class="n">length</span><span class="p">];</span>
+
+    <span class="n">charArray</span> <span class="o">=</span> <span class="n">myString</span><span class="p">;</span>
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">length</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">){</span>
+        <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">charArray</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;&lt;</span> <span class="s">" "</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></td></tr></tbody></table></code></pre></figure>
+
 
   </article>
+
+  
 
 </div>
 
