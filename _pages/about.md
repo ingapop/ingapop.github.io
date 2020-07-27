@@ -6,7 +6,7 @@ description: Sociology + Data Science + Space
 
 profile:
   align: right
-  image: popovaite2.jpg
+  image: popovaite1.jpg
 
 
 news: true
