@@ -5,9 +5,7 @@ permalink: /media/
 description: my work in media and media about my work
 nav: true
 ---
-***
 
-I love public writing. Here are a few links to my work.
 
 **Gender, space, and isolation:**
 

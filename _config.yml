@@ -37,8 +37,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: ingapop # your GitHub user name
-twitter_username: inga_pop# your Twitter handle
-linkedin_username: inga-popovaite# your LinkedIn user name
+twitter_username: inga_pop # your Twitter handle
+linkedin_username: inga-popovaite # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 instagram_username: popovaite
 orcid_id: # your ORCID ID
@@ -51,13 +51,13 @@ blogger_url: # your blogger URL
 contact_note: >
   Send a post pidgeon if none of these work. 
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: #UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog  # your blog must have a name for it to show up in the nav bar
+blog_name: blog  # your blog must have a name for it to show up in the nav bar
 blog_description: no peer review. 
 permalink: /blog/:year/:title/
 
@@ -69,7 +69,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: #al-folio # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections

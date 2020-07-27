@@ -6,8 +6,6 @@ description: teaching philosophy and classes I taught.
 nav: true
 ---
 
-***
-
 
 My teaching philosophy is grounded in scientific method and centering marginalized voices. The ideal class would have a syllabus that consists of readings beyond texts of white dead men. It would include hands-on approaches to sociology as science (how do we know what we know?) including research ethnics and research politics (whose research matters and how do we challenge that?). 
 
