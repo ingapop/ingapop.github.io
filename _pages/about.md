@@ -13,7 +13,7 @@ news: true
 social: true
 ---
 
-I am a PhD candidate at the department of Sociology& Criminology at the  University of Iowa. I study emotions, gender, and status in space analog environments (download my CV [here](/assets/pdf/inga popovaite_vita_july_2020.pdf) ). I speak Lithuanian, Russian, and a bit of Georgian and German.
+I am a PhD candidate at the department of Sociology& Criminology at the  University of Iowa. I study emotions, gender, and status in space analog environments (download my CV [here](assets/pdf/inga popovaite_vita_july_2020.pdf) ). I speak Lithuanian, Russian, and a bit of Georgian and German.
 
 When I am not behind my computer, I bike, swim, and read. 
 
