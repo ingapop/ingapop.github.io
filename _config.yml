@@ -51,7 +51,7 @@ blogger_url: # your blogger URL
 contact_note: >
   Send a post pidgeon if none of these work. 
 
-google_analytics: #UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-174208096-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -150,7 +150,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  false
+enable_google_analytics:  true
 enable_katex:             true
 enable_mansory:           true
 enable_progressbar:       true
