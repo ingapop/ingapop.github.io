@@ -69,7 +69,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: #al-folio # put your disqus shortname
+disqus_shortname: popovaite # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
