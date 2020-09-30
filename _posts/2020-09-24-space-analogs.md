@@ -180,13 +180,13 @@ I compiled a list of currently functioning space analog programs and facilities 
 **Can I go?** open call on the website.  
 **Website:** [https://lunares.space/](https://lunares.space/)  
 
-**Space Analog:** Lunark
-**Where:** Denmark/Greenland
-**Owned by**: SAGA 
-**Operation type**: one-time simulation: 2 participants, 3 months. 
-**Can I propose a research project?** Yes
-**Can I go?** No; the program team is already assembled. 
-**Website:**[https://lunark.space/](https://lunark.space/) 
+**Space Analog:** Lunark  
+**Where:** Denmark/Greenland  
+**Owned by**: SAGA   
+**Operation type**: one-time simulation: 2 participants, 3 months.   
+**Can I propose a research project?** Yes  
+**Can I go?** No; the program team is already assembled.   
+**Website:**[https://lunark.space/](https://lunark.space/)   
 
 **Space Analog/Program:** SIRIUS.  
 **Where:** Russia.  
