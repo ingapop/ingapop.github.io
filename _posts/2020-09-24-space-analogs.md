@@ -29,7 +29,7 @@ Space analog environments are not ideal replicas of spaceflight environment, esp
 
 #### OK, So Where Do I Find Them?
 
-I compiled a list of space analog programs and facilities around the world below. Let me know if I missed any!
+I compiled a list of currently functioning space analog programs and facilities around the world below. Let me know if I missed any!
 
 ##### Antarctica
 
@@ -44,6 +44,15 @@ I compiled a list of space analog programs and facilities around the world below
 **Can I propose a research project?** Yes.  
 **Can I go?** No current call for participants (as of September 2020).   
 **Website:** [http://www.d-mars.org/ ](http://www.d-mars.org/ )  
+
+**Space Analog:** Lunar Palace/Yuegong.  
+**Where:** China.  
+**Operated by:** .Beihang University  
+**Operation type:** Closed-system space analog simulator. 2017-2018 simulation lasted 370 days.   
+**Can I propose a research project?** Unclear.  
+**Can I go?** Unclear.   
+**Website:** [https://ev.buaa.edu.cn/info/1081/1585.htm](https://ev.buaa.edu.cn/info/1081/1585.htm )  
+
 
 
 ##### North America 
@@ -64,13 +73,33 @@ I compiled a list of space analog programs and facilities around the world below
 **Can I go?** Yes, if you hold US citizenship or permanent residency. Recruitment is currently on hold due to pandemic (September 2020).  
 **Website:**[ https://www.nasa.gov/analogs/hera]( https://www.nasa.gov/analogs/hera)  
 
+**Space Analog:**  HESTIA (Human Exploration Spacecraft Testbed for Integration and Advancement).   
+**Where:** Texas (USA).  
+**Owned by:** NASA.  
+**Operation type:** permanent research facility. 20-foot tall chamber where various integrated systems can be tested.  
+**Can I propose a research project?** Most likely you will have to apply through NASA research opportunity announcements.  
+**Can I go?** Unclear.  
+**Website:**[ https://www.nasa.gov/analogs/hestia]( https://www.nasa.gov/analogs/hestia)  
+
+
 **Space Analog:** HI-SEAS (Hawai’i Space Exploration Analog).  
 **Where:** Hawaii (USA.)  
-**Operated by:** University of Hawaii.  
-**Operation type:** Permanent facility suited for long-term (Mars) and short-term (Moon)simulations. Check out podcast [The Habitat]( https://gimletmedia.com/shows/the-habitat)  about 1-year long Mars simulation that happened in 2015-2016.  
-**Can I propose a research project?** Most likely you will need to go through the University of Hawaii.  
+**Operated by:** International Moonbase Aliance.  
+**Operation type:** Permanent facility suited for long-term (Mars) and short-term (Moon)simulations. Check out podcast [The Habitat]( https://gimletmedia.com/shows/the-habitat)  about Mars simulation that happened in 2015-2016^, or Kate Greene's book [Once Upon a Time I Lived on Mars](https://us.macmillan.com/books/9781250159472) based on her 4-month long stay at HI-SEAS.  
+^According to a participant at that simulation, the Habitat is "a radiodrama loosely based upon HI-SEAS", and she recommends Greene's book instead.  
+**Can I propose a research project?** Most likely; you should contact the International Moonbase Aliance.  
 **Can I go?** No current calls for participation (September 2020); but see Sensoria program.  
-**Website:**[ https://hi-seas.org/ ]( https://hi-seas.org/ )  https://hi-seas.org/  
+**Website:**[ https://moonbasealliance.com/hi-seas/]( https://moonbasealliance.com/hi-seas )  
+
+
+**Space Analog:** LMAH (Lunar Martian In Analog Habitat).  
+**Where:** North Dakota, USA.   
+**Owned by:** University of North Dakota.  
+**Operation type**: Habitat consists of inflatable modules. 2-week and longer simulations.   
+**Can I propose a research project?** Probably; contact the university.  
+**Can I go?**Maybe. Participants tend to be University of North Dakota students or space professionals. But you can try contacting them directly.   
+**Website:** [https://aero.und.edu/space/human-spaceflight-lab/](https://aero.und.edu/space/human-spaceflight-lab/)   
+
 
 **Space Analog:** MDRS (Mars Desert Research Station).  
 **Where:** Utah, USA.   
@@ -88,10 +117,10 @@ I compiled a list of space analog programs and facilities around the world below
 **Can I go?** Yes.  
 **Website:** [https://marsacademyusa.com/](https://marsacademyusa.com/)  
 
-**Space Analog/Program:** NEEMO (NASA Extreme Environment Mission Operations). 
-**Where:** Florida, USA.
-**Owned by:** NASA.
-**Operation type:** The only underwater facility. 
+**Space Analog/Program:** NEEMO (NASA Extreme Environment Mission Operations).  
+**Where:** Florida, USA.  
+**Owned by:** NASA.  
+**Operation type:** The only underwater facility.   
 **Can I propose a research project?**  Most likely you will need to apply through NASA research opportunity announcements.  
 **Can I participate?** Participants are usually NASA astronauts or affiliated scientists.  
 **Website:** [https://www.nasa.gov/mission_pages/NEEMO](https://www.nasa.gov/mission_pages/NEEMO)  
@@ -106,13 +135,13 @@ I compiled a list of space analog programs and facilities around the world below
 
 ##### South America
 
-**Space Analog/Program:** Habitat Marte.
-**Where:** Brazil.
-**Owned by:** the Mars Society Brazil Chapter.
-**Operation type:** Rotating crews in a permanent facility; mission duration ~2 weeks. 
-**Can I propose a research project?** Yes.
-**Can I participate?** Yes. 
-**Website:** [http://www.habitatmarte.com/ ](https://marsacademyusa.com/)
+**Space Analog/Program:** Habitat Marte.  
+**Where:** Brazil.  
+**Owned by:** the Mars Society Brazil Chapter.  
+**Operation type:** Rotating crews in a permanent facility; mission duration ~2 weeks.   
+**Can I propose a research project?** Yes.  
+**Can I participate?** Yes.   
+**Website:** [http://www.habitatmarte.com/ ](http://www.habitatmarte.com/  )  
 
 
 ##### Europe
@@ -120,11 +149,19 @@ I compiled a list of space analog programs and facilities around the world below
 **Space Analog Program:** AMADEE.  
 **Where:** various locations; headquarters in Austria.  
 **Owned by:** Austrian Space Forum (OeWF).  
-**Operation type:** Temporary missions in different facilities under the same research program AMADEE. Upcoming AMADEE-20 is planned to last for 2 weeks in cooperation with D-MARS.  
+**Operation type:** Temporary missions in different facilities under the same research program AMADEE. Upcoming AMADEE-20 is planned to last for 4 weeks in cooperation with D-MARS.  
 **Can I propose a research project?** Yes.  
-**Can I go?** No current call for participants (as of September 2020).  
+**Can I go?** No current call for participants (as of September 2020). You can still volunteer.  
 **Website:**[https://oewf.org/en](https://oewf.org/en)  
 
+
+**Space Analog Program:** Analog Astronaut Training Center.  
+**Where:** Poland.  
+**Owned by:** Analog Astronaut Training Center.  
+**Operation type:** Various trainings for scientists, engineers, space enthusiasts, and the like. They also conduct 2-week long simulations.   
+**Can I propose a research project?** Yes.  
+**Can I go?** Yes.  
+**Website:**[https://www.astronaut.center/](https://www.astronaut.center/)  
 
 **Space Analog:** CAVES (Cooperative Adventure for Valuing and Exercising human behaviour and performance Skills).  
 **Where:** Italy.  
