@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: my recent projects.
+description: stuff i have been working on.
 nav: true
 ---
 <p>
