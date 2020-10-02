@@ -1,8 +1,8 @@
 ---
 layout: page
-title: EVA Co-participation at MDRS
+title: EVA Co-participation networks at MDRS
 description: Interactive network visualisation of crew interaction in Mars simulations at the MDRS 
-img: /assets/img/Screenshot from 2020-07-25 17-00-36.png
+img: /assets/img/evanetwork.png
 importance: 1
 ---
 
