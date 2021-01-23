@@ -1,13 +1,17 @@
 
 
-- name: Linux
-  percentage: 90
-  color: 
-
 - name: C++
   percentage: 60
+  lvl: Basic/Intermediate
   color: 
 
-- name: GitHub
+
+- name: Git
   percentage: 70
+  lvl: Intermediate
+  color: 
+
+- name: Linux
+  percentage: 90
+  lvl: Advanced
   color: 
