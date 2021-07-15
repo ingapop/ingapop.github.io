@@ -1,15 +1,15 @@
 - name: Python
-  percentage: 90
+  percentage: 95
   lvl: Advanced
   color: danger
 
 - name: R
-  percentage: 90
+  percentage: 95
   lvl: Advanced
   color:
 
 - name: Stata
-  percentage: 75
+  percentage: 80
   lvl: Intermediate
   color: dark
 

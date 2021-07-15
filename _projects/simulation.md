@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2-week long simulation at the MDRS
-description: I am  the Crew Scientist in Crew228  that is scheduled for May 9-22 2020 at the MDRS.
+description: I am  the Crew Scientist in Crew 228  that is scheduled for Sep 26 - Oct 9 2021 at the MDRS.
 img: /assets/img/patch.jpg
 importance: 1
 ---
