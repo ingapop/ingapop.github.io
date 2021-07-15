@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Inga Popovaite | Inga Popovaite</title>
+<title>Inga Popovaite | EVA Co-participation networks at MDRS</title>
 <meta name="description" content="My personal space. 
 ">
 
@@ -23,7 +23,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/mdrs_network_visual/">
 
 <!-- Open Graph -->
 
@@ -61,7 +61,7 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
               
@@ -183,56 +183,58 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>blog</h1>
-    no peer review.
-  </div>
 
+  <header class="header-bar">
+    <h1 class="post-title">EVA Co-participation networks at MDRS</h1>
+    <p class="post-description">Interactive network visualisation of crew interaction in Mars simulations at the MDRS</p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/space-analogs/">Space Analogs and Where To Find Them</a></h3>
-        <p class="post-meta">September 24, 2020</p>
-        <p></p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/corona-quarantive/">Coronavirus quarantine could provide lessons for future space travel on how regular people weather isolation (op-ed)</a></h3>
-        <p class="post-meta">April 20, 2020</p>
-        <p></p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/what-the-2010s-taught-us-about-women-in-space-op-ed/">What the 2010s taught us about women in space (op-ed)</a></h3>
-        <p class="post-meta">January 15, 2020</p>
-        <p></p>
-      </li>
-    
-  </ul>
+  <article>
+    <p>I come from an interdisciplinary background (journalism-nationalism studies-sociology). As a journalist, I tell stories; and as a researcher, I want to do the same. A well done web application or a well done web page is a more efficient way to communicate one’s scholarship than an academic article. Yes, in academia it is still seen as a supplement rather than a substitute to a peer reviewed publication. And it’s a pity – it takes a lot of time, skills, and effort to create even the simplest visuals. On the other hand, it still is time well spent: by creating a visual story, one gets to know their data very intimately. And the world does not end with academia – it is helpful to leave the ivory tower and engage with the audiences outside of it.</p>
 
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="Inga Popovaite">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="Inga Popovaite - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="Inga Popovaite - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
+<h4 id="gender-inequality-and-space">Gender inequality and space</h4>
 
+<p>Structural inequality and cultural beliefs, that shape societies at large, are imported into small group settings every time we interact. In work groups we subconsciously stereotype others, and judge about their abilities based on their gender, race, ethnicity and other observable characteristics. This happens both in newly formed, and in long term task groups – in latter, stereotypes keep influencing our decisions even if we are aware how well or poorly our teammates have performed in the past.</p>
 
+<p>Those who are deemed more qualified for the task at hand, have more influence, or in other words, have a higher in-group status. It is a self-fulfilling prophesy: we know who should be better at a task based on our stereotypical knowledge, and then we let them lead our group and contribute more to the task. But even if we know their actual abilities, stereotypical knowledge will continue to influence the formation of the status hierarchy in the group.</p>
+
+<p>How does gender shape status hierarchy in small isolated groups? I used freely available data from the Mars Desert Research Station (MDRS) to explore how gender influences informal status hierarchy in crews that participate in space analog simulations.</p>
+
+<h4 id="about-mdrs-crews">About MDRS crews</h4>
+
+<p>MDRS is a space analog facility in Utah owned and operated by a non-profit Mars Society. Each year, MDRS hosts an eight month field season for professional scientists and engineers as well as college students of all levels, in training for human operations specifically on Mars. Most missions are 2 weeks in duration. To this day, &gt;200 crews have conducted their research on the site over the course of 19 field seasons.</p>
+
+<p>Most of the crews consist of six members, each of them are assigned the following roles: Commander, Executive Officer, Health and Safety Officer, Crew Biologist or Astrophysicist, Crew Geologist or Chief Engineer. These roles are consistent to most part across different crews. Each crew member has to file daily logs and reports; most reports from previous crews have been archived and available online through the MDRS website. In addition to logs, members of each crew post a short biography of themselves, usually including their education, occupation and other information relevant to their participation in a simulation.</p>
+
+<p>Extravehicular activities (EVAs), or simulated spacewalks, are a crucial part of Mars habitat simulation. Crew members are asked to form EVA teams based on skills needed for a specific EVA. If we know who participates in EVAs more often, we can have a glimpse to the crew status hierarchy.</p>
+
+<h4 id="data">Data</h4>
+
+<p>I selected daily logs and biographic entries from 30 random crews. I read through daily logs to get names of participats in each EVA. I got their sociodemographic information from their posted bios. 
+I constructed co-participation matrices and calculated centrality scores for each individual (e.g. who participated in more EVAs with more people).</p>
+
+<h4 id="interactive-app-to-explore-data">Interactive app to explore data</h4>
+
+<p>I used R packages <a href="https://shiny.rstudio.com/">shiny</a>, <a href="https://datastorm-open.github.io/visNetwork/">visnetwork</a>, and <a href="https://plotly.com/r/">plotly </a> to create interactive web application for data exploration.</p>
+
+<p>The main drop down menu selects a crew to display. A network graph shows who worked with whom on extravehicular activities (EVAs). Each node is a crew member, and the size of a tie represents how many times these people worked together on an EVA. A bar chart in the bottom right corner shows the total number of EVAs that a crew member participated in.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/Screenshot from 2020-07-25 17-00-36.png" />
+    </div>
+</div>
+<div class="caption">
+    A screenshot of the app. 
+</div>
+
+<p>I selected to visualize two characteristics – crew members’ gender and their official crew role.</p>
+
+<p>A user can also select a single EVA to see which crew members worked together. They can also see which crew member was the most central in the EVAs conducted by that crew.</p>
+
+<p>Now, go and explore my data <a href="https://evanets.shinyapps.io/evanetworks/">yourself</a> .</p>
+
+  </article>
 
 </div>
 
