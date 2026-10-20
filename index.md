@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: Apie
-description: Sociologė, buvusi žurnalistė ir Marso simuliacijos veteranė. Rašau apie galią, lygybę ir tai, kas laiko grupes kartu.
+description: Sociologė, politikė ir Marso simuliacijos veteranė. Rašau apie galią, lygybę ir tai, kas laiko grupes kartu.
 ---
 
 <img class="profile-photo" src="/assets/img/popovaite4.jpg" alt="Inga Popovaitė">
