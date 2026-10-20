@@ -29,22 +29,22 @@
     {
       "label": "El. paštas",
       "href": "mailto:inga.popovaite@gmail.com",
-      "icon": "mail"
+      "icon": "fa-solid fa-envelope"
     },
     {
       "label": "LinkedIn",
       "href": "https://www.linkedin.com/in/inga-popovaite/",
-      "icon": "linkedin"
+      "icon": "fa-brands fa-linkedin"
     },
     {
       "label": "Facebook",
       "href": "https://www.facebook.com/popovaite",
-      "icon": "facebook"
+      "icon": "fa-brands fa-square-facebook"
     },
     {
       "label": "Instagram",
       "href": "https://www.instagram.com/popovaite",
-      "icon": "instagram"
+      "icon": "fa-brands fa-instagram"
     }
   ]
 }

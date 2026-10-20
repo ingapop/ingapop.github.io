@@ -2,8 +2,9 @@
   --text: #1c1c1e;
   --muted: #5b5b5f;
   --bg: #fdfdfb;
-  --accent: #1d4e5f;
-  --accent-hover: #143846;
+  --accent: #b509ac;
+  --accent-hover: #820779;
+  --icon: #424242;
   --border: #e4e2dd;
   --max-width: 760px;
 }
@@ -122,18 +123,39 @@ main {
   margin: 0 0 16px 24px;
 }
 
+.contact {
+  clear: both;
+  margin-top: 40px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+  text-align: right;
+}
+
 .social-links {
   display: flex;
-  gap: 16px;
+  justify-content: flex-end;
+  gap: 20px;
   flex-wrap: wrap;
-  margin: 24px 0;
+  margin: 0 0 12px;
   padding: 0;
   list-style: none;
 }
 
 .social-links a {
+  color: var(--icon);
+  font-size: 3.5rem;
+  line-height: 1;
   text-decoration: none;
-  font-weight: 500;
+  transition: color 0.15s;
+}
+
+.social-links a:hover,
+.social-links a:focus-visible { color: var(--accent); }
+
+.contact-note {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0 0 24px;
 }
 
 /* Writing / Press listings */

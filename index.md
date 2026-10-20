@@ -31,10 +31,13 @@ Pasaulyje viena krizė veja kitą. Radikali dešinė kelia galvą, klimato kriz�
 
 Kalbu lietuviškai, angliškai ir rusiškai, susikalbu kartveliškai ir vokiškai.
 
-<ul class="social-links">
-  {% for link in site.social %}
-  <li><a href="{{ link.href }}" target="_blank" rel="noopener">{{ link.label }}</a></li>
-  {% endfor %}
-</ul>
-
 [Išsamus CV](/assets/pdf/inga-popovaite-cv.pdf) – jei domina detalės.
+
+<div class="contact">
+<ul class="social-links">
+{%- for link in site.social %}
+<li><a href="{{ link.href }}" target="_blank" rel="noopener" aria-label="{{ link.label }}" title="{{ link.label }}"><i class="{{ link.icon }}" aria-hidden="true"></i></a></li>
+{%- endfor %}
+</ul>
+<p class="contact-note">Jei niekas neveikia – siųskite karvelį paštu.</p>
+</div>
