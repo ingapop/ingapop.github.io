@@ -30,6 +30,10 @@ a:hover { color: var(--accent-hover); }
 
 h1, h2, h3 { line-height: 1.25; }
 
+h1, h2 { color: var(--accent); }
+
+a:hover { text-decoration: underline; }
+
 /* Header / nav */
 .site-header {
   border-bottom: 1px solid var(--border);
@@ -64,6 +68,9 @@ h1, h2, h3 { line-height: 1.25; }
   color: var(--text);
   font-size: 0.95rem;
 }
+
+.brand:hover,
+.nav-links a:hover { color: var(--accent); }
 
 .nav-links a[aria-current="page"] {
   color: var(--accent);
