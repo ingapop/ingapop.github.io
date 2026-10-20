@@ -39,5 +39,5 @@ Kalbu lietuviškai, angliškai ir rusiškai, susikalbu kartveliškai ir vokiška
 <li><a href="{{ link.href }}" target="_blank" rel="noopener" aria-label="{{ link.label }}" title="{{ link.label }}"><i class="{{ link.icon }}" aria-hidden="true"></i></a></li>
 {%- endfor %}
 </ul>
-<p class="contact-note">Jei niekas neveikia – siųskite karvelį paštu.</p>
+<p class="contact-note">Jei niekas neveikia, pabandykite pašto karvelį.</p>
 </div>
