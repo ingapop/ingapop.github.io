@@ -116,6 +116,7 @@ main {
 .profile-photo {
   width: 100%;
   max-width: 220px;
+  height: auto;
   border-radius: 8px;
   float: right;
   margin: 0 0 16px 24px;
