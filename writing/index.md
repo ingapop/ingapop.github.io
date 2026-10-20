@@ -7,7 +7,7 @@ permalink: /tekstai/
 
 # Tekstai
 
-Nuomonės straipsniai ir esė. Ankstesni tekstai parašyti anglų kalba – palieku juos tokius, kokie buvo publikuoti.
+Op-ed'ai ir esė. 
 
 <ul class="entry-list">
   {% for post in collections.writing %}
