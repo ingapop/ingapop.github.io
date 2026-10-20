@@ -1,0 +1,59 @@
+{
+  "name": "Inga Popovaitė",
+  "tagline": "Sociologė. Autorė. Pilietė.",
+  "email": "inga.popovaite@gmail.com",
+  "cv_pdf": "/assets/pdf/inga-popovaite-cv.pdf",
+  "nav": [
+    {
+      "label": "Apie",
+      "href": "/"
+    },
+    {
+      "label": "Pozicijos",
+      "href": "/pozicijos/"
+    },
+    {
+      "label": "Tekstai",
+      "href": "/tekstai/"
+    },
+    {
+      "label": "Žiniasklaida",
+      "href": "/ziniasklaida/"
+    },
+    {
+      "label": "Renginiai",
+      "href": "/renginiai/"
+    },
+    {
+      "label": "Kontaktai",
+      "href": "/kontaktai/"
+    }
+  ],
+  "social": [
+    {
+      "label": "El. paštas",
+      "href": "mailto:inga.popovaite@gmail.com",
+      "icon": "mail"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/inga-popovaite/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Twitter/X",
+      "href": "https://twitter.com/inga_pop",
+      "icon": "twitter"
+    },
+    {
+      "label": "Facebook",
+      "href": "https://www.facebook.com/popovaite",
+      "icon": "facebook"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/popovaite",
+      "icon": "instagram"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+---
+layout: layout.njk
+---
+<article{% if lang %} lang="{{ lang }}"{% endif %}>
+  <p lang="lt"><a href="/tekstai/">&larr; Visi tekstai</a></p>
+  <h1 class="page-title">{{ title }}</h1>
+  <p class="page-subtitle" lang="lt">{{ date | readableDate }}</p>
+  {{ content | safe }}
+</article>

@@ -1,0 +1,25 @@
+node_modules
+_site
+.git
+
+# Retired academic-site sections (kept in git history, not part of the new build)
+blog
+media
+news
+projects
+publications
+skills
+teaching
+examples
+post style
+post style.md
+bin
+Gemfile
+Gemfile.lock
+CONTRIBUTING.md
+LICENSE
+README.md
+redirects.json
+
+# Old compiled homepage, superseded by index.md
+index.html
