@@ -24,7 +24,6 @@ Interviu ir publikacijos apie mano darbą.
 
 - [Kosmoso sociologė Inga Popovaitė: kosmosas keičia supratimą, kas mes esame (LRT radijas, 2026)](https://www.lrt.lt/radioteka/irasas/2000660214/svajojame-apie-gyvenima-kosmose-bet-ar-ten-pabegtume-nuo-zemisku-bedu)
 - [Kosmoso sociologė dr. Inga Popovaitė: iš visų planetų Visatoj gyvename pačioje geriausioje (LRT, 2026)](https://www.lrt.lt/naujienos/kultura/12/2836082/kosmoso-sociologe-dr-inga-popovaite-is-visu-planetu-visatoj-gyvename-pacioje-geriausioje)
-- [Interviu su kosmoso sociologe dr. I. Popovaite (alkas.lt, 2026)](https://alkas.lt/2026/02/13/sengires-kinas-interviu-su-kosmoso-sociologe-dr-i-popovaite/)
 - [Mokslininkai apie ateitį Marse: lyderio savybių turintys žmonės būtų blogiausiais kosmoso užkariautojais (LRT, 2024)](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2168174/mokslininkai-apie-ateiti-marse-lyderio-savybiu-turintys-zmones-butu-blogiausiais-kosmoso-uzkariautojais)
 - [Minties eksperimentai. Mokslininkai apie žmonių ateitį Marse (LRT radijas, 2024)](https://www.lrt.lt/radioteka/irasas/2000312718/minties-eksperimentai-mokslininkai-apie-zmoniu-ateiti-marse-del-gravitacijos-skirtumu-cia-gime-zmones-niekada-negales-atvykti-i-zeme)
 - [Marsą „pasimatavusi“ kosmoso sociologė Inga Popovaitė: reikia kalbėti apie tai, kokia yra užteršta kosminė erdvė (7 Kauno dienos/LRT, 2023)](https://www.lrt.lt/mediateka/irasas/2000298410/marsa-pasimatavusi-kosmoso-sociologe-inga-popovaite-reikia-kalbeti-apie-tai-kokia-yra-uztersta-kosmine-erdve)
