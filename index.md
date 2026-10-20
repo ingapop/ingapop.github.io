@@ -4,7 +4,7 @@ title: Apie
 description: Sociologė, politikė ir Marso simuliacijos veteranė. Rašau apie galią, lygybę ir tai, kas laiko grupes kartu.
 ---
 
-<img class="profile-photo" src="/assets/img/popovaite-portretas.jpg" width="600" height="750" alt="Inga Popovaitė">
+<img class="profile-photo" src="/assets/img/popovaite-zalioji.jpg" width="600" height="750" alt="Inga Popovaitė">
 
 # {{ site.name }}
 
