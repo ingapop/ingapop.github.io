@@ -7,13 +7,13 @@ permalink: /tekstai/
 
 # Tekstai
 
-Ankstesni tekstai parašyti anglų kalba – palieku juos tokius, kokie buvo publikuoti.
+Nuomonės straipsniai ir esė. Ankstesni tekstai parašyti anglų kalba – palieku juos tokius, kokie buvo publikuoti.
 
 <ul class="entry-list">
   {% for post in collections.writing %}
   <li>
     <span class="entry-date">{{ post.date | readableDate }}</span>
-    <a href="{{ post.url }}" lang="en">{{ post.data.title }}</a>
+    <a href="{{ post.data.externalUrl or post.url }}" lang="{{ post.data.lang }}">{{ post.data.title }}</a>{% if post.data.publication %} <span class="entry-publication">– {{ post.data.publication }}</span>{% endif %}
   </li>
   {% endfor %}
 </ul>
